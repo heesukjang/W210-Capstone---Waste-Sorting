@@ -1,5 +1,5 @@
 # [Project Overview](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
-UC Berkeley MIDS Machine Learning at Scale Group Project
+###### <i>UC Berkeley MIDS `Machine Learning at Scale` Group Project</i>
 
 **WasteWizard** is an AI-powered consumer application that utilizes computer vision to help users upload images of waste and receive tailored guidance on proper disposal methods. With the US recycling rate at only 32% (EPA 2018), WasteWizard categorizes waste into 26 sub-categories, including recyclables, e-waste, and hazardous materials, minimizing the need for manual sorting and reducing contamination. The app aims to enhance recycling efficiency, reduce landfill overflow, and mitigate environmental risks associated with improper waste disposal.
 
