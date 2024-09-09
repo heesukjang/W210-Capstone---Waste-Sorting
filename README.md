@@ -9,7 +9,7 @@ In the backend, we used the Vision Transformer (ViT) as our best-performing mode
 For the UI frontend, I led the model deployment and developed a website using AWS Amplify, AppSync, S3, DynamoDB, and EC2, enabling users to upload images and view the model's results.
 
 More details can be found in the:
-* [Final presentation]
+* [Final presentation]()
 * [Final demo video](https://www.youtube.com/watch?v=cUeJPhyFcGI&t=1s)
-* [UI code]()
+* [UI code](https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main)
 
