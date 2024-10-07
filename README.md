@@ -19,7 +19,8 @@ For the frontend, I led the model deployment and developed a user-friendly websi
 * `Backend`: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy
 * `Frontend`: AWS Amplify, AppSync, S3, DynamoDB, EC2
 
-**Models Utilized:** CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
+**Models Utilized:** 
+CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
 
  
 
