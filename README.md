@@ -13,9 +13,6 @@ For the frontend, I led the model deployment and developed a user-friendly websi
 <li><strong>Backend:</strong> Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
 <li><strong>Frontend:</strong> AWS Amplify, AppSync, S3, DynamoDB, EC2</li>
 
-<h3>Models Utilized:</h3>
-CNNs (Baseline), <strong>Vision Transformer (Top Performer)</strong>, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
-
 <h3>Additional Resources:</h3>
 <ul>
  <li><a href="https://www.ischool.berkeley.edu/projects/2024/wastewizard" target="_blank">MIDS Capstone Project Spring 2014</a></li>
