@@ -17,10 +17,17 @@ For the frontend, I led the model deployment and developed a user-friendly websi
 CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
 
 <h3>Additional Resources:</h3>
-* [MIDS Capstone Project Spring 2014](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
+<ul>
+ <li>[MIDS Capstone Project Spring 2014](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
+* 
 * [Final Demo Video](https://www.youtube.com/watch?v=cUeJPhyFcGI&t=1s)
 * [Final Presentation](https://github.com/heesukjang/WasteWizardWithComputerVision/blob/main/Final%20Presentation.pdf)
 * [UI Code](https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main)
+
+<ul>
+ <li><strong>Description</strong>: Built a dashboard to provide a comprehensive view of climate change's global impact.</li>
+ <li><strong>Tehnologies Used</strong>: HTML, CSS, JavaScript, Bootstrap, Tableau, D3.JS, Vega-Altair</li>
+ <li>
 
  
 
