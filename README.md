@@ -18,7 +18,7 @@ CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Lea
 
 <h3>Additional Resources:</h3>
 <ul>
- <li>[MIDS Capstone Project Spring 2014](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
+ <li><a href="https://www.ischool.berkeley.edu/projects/2024/wastewizard" target="_blank">MIDS Capstone Project Spring 2014</a></li>
 * 
 * [Final Demo Video](https://www.youtube.com/watch?v=cUeJPhyFcGI&t=1s)
 * [Final Presentation](https://github.com/heesukjang/WasteWizardWithComputerVision/blob/main/Final%20Presentation.pdf)
@@ -28,6 +28,8 @@ CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Lea
  <li><strong>Description</strong>: Built a dashboard to provide a comprehensive view of climate change's global impact.</li>
  <li><strong>Tehnologies Used</strong>: HTML, CSS, JavaScript, Bootstrap, Tableau, D3.JS, Vega-Altair</li>
  <li>
+
+ <li><strong>Link</strong>: 
 
  
 
