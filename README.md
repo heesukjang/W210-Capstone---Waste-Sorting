@@ -16,8 +16,8 @@ For the frontend, I led the model deployment and developed a user-friendly websi
 * [UI Code](https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main)
 
 **Tehnologies Used:**
-* Backend: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy
-* Frontend: AWS Amplify, AppSync, S3, DynamoDB, EC2
+* `Backend`: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy
+* `Frontend`: AWS Amplify, AppSync, S3, DynamoDB, EC2
 
  
 
