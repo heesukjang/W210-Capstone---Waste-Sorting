@@ -9,18 +9,18 @@ On the backend, we leveraged the **Vision Transformer (ViT)** as our top-perform
 
 For the frontend, I led the model deployment and developed a user-friendly website using **AWS Amplify, AppSync, S3, DynamoDB, and EC2**, allowing users to upload waste images and review classification results in real-time.
 
-**Additional Resources:**
-* [MIDS Capstone Project Spring 2014](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
-* [Final Demo Video](https://www.youtube.com/watch?v=cUeJPhyFcGI&t=1s)
-* [Final Presentation](https://github.com/heesukjang/WasteWizardWithComputerVision/blob/main/Final%20Presentation.pdf)
-* [UI Code](https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main)
-
 **Tehnologies Used:**
 * `Backend`: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy
 * `Frontend`: AWS Amplify, AppSync, S3, DynamoDB, EC2
 
 **Models Utilized:**<br>
 CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
+
+**Additional Resources:**
+* [MIDS Capstone Project Spring 2014](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
+* [Final Demo Video](https://www.youtube.com/watch?v=cUeJPhyFcGI&t=1s)
+* [Final Presentation](https://github.com/heesukjang/WasteWizardWithComputerVision/blob/main/Final%20Presentation.pdf)
+* [UI Code](https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main)
 
  
 
