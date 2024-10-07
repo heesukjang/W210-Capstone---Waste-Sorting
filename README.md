@@ -14,7 +14,7 @@ For the frontend, I led the model deployment and developed a user-friendly websi
 <li><strong>Frontend:</strong> AWS Amplify, AppSync, S3, DynamoDB, EC2</li>
 
 <h3>Models Utilized:</h3>
-CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
+CNNs (Baseline), <strong>Vision Transformer (Top Performer)</strong>, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
 
 <h3>Additional Resources:</h3>
 <ul>
