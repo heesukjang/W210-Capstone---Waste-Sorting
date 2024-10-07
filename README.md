@@ -10,8 +10,8 @@ On the backend, we leveraged the **Vision Transformer (ViT)** as our top-perform
 For the frontend, I led the model deployment and developed a user-friendly website using **AWS Amplify, AppSync, S3, DynamoDB, and EC2**, allowing users to upload waste images and review classification results in real-time.
 
 <h3>Tehnologies Used:</h3>
-* `Backend`: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy
-* `Frontend`: AWS Amplify, AppSync, S3, DynamoDB, EC2
+<li><strong>Backend:</strong> Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
+<li><strong>Frontend:</strong> AWS Amplify, AppSync, S3, DynamoDB, EC2</li>
 
 <h3>Models Utilized:</h3>
 CNNs (Baseline), `Vision Transformer (Top Performer)`, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.
